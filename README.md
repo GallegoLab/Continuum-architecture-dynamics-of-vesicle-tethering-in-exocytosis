@@ -39,6 +39,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/GallegoLab/Continuum-architecture-dynamics-of-vesicle-tethering-in-exocytosis.git
 cd Continuum-architecture-dynamics-of-vesicle-tethering-in-exocytosis
+```
 
 Install dependencies:
 ```bash
